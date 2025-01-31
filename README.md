@@ -54,5 +54,4 @@ Check out the live demo on [**Hugging Face 🤗**](https://huggingface.co/spaces
 
 ---
 
-\*\*Built with ❤️ by \*\*[**Davron Abdukhakimov**](https://github.com/davron2004-tech)
-
+Built with ❤️ by [**Davron Abdukhakimov**](https://github.com/davron2004-tech)
