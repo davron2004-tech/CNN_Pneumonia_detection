@@ -20,7 +20,6 @@ This project is a **deep learning-based web application** built with **Streamlit
 ## 📸 Screenshots
 
 ![Web App Screenshot 1](./screenshots/light_mode.png)
-![Web App Screenshot 2](./screenshots/dark_mode.png)
 
 ## 📂 Installation
 
